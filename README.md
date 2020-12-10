@@ -1,5 +1,7 @@
 # Spotify-Stats
-An app built using the dotnet framework to display your top spotify songs!
+An app built using the dotnet framework to display your top spotify songs! 
+
+> Download from [here](https://github.com/abh80/Spotify-Stats/releases/tag/1.0.0)
 
 # Note
 - The app does not store the password or email you enter in any way and anywhere.
